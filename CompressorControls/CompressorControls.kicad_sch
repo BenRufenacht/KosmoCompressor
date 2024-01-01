@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid caf70be0-85f4-4237-a117-23936b7e5668)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 250.19 30.48) (size 33.02 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 792506cf-89c4-415a-90d6-c6b821b47ec1)
+    (property "Sheetname" "Control" (at 250.19 29.7684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CompressorControl.kicad_sch" (at 250.19 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CompressorControls"
+        (path "/caf70be0-85f4-4237-a117-23936b7e5668" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
