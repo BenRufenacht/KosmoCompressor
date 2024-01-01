@@ -1,4 +1,4 @@
-# KosmoSlopes
+# KosmoCompressor
  Kosmo Version of the Moritz Klein Compressor
 
  <p align="center">
